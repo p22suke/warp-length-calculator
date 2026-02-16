@@ -1,0 +1,33 @@
+# IntelliJ IDEA, VS Code ja muud IDE failid
+.vscode/
+.idea/
+*.iml
+
+# MacOS süsteemifailid
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Java kompileeritud failid
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle / Maven build kaustad (kui tulevikus)
+build/
+out/
+target/
+
+# Logid ja temp failid
+*.log
+tmp/
+*.tmp
+
+# OS spetsiifilised failid
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Git enda failid
+*.orig
