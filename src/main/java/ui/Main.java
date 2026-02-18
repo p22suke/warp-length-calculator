@@ -1,4 +1,4 @@
-package main.java;
+package main.java.ui;
 
 public class Main {
     
